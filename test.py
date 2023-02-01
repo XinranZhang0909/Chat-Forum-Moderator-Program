@@ -1,14 +1,3 @@
-"""
-Author: Xinran Zhang
-SID: 500671702
-Unikey: xzha0459
-"""
-
-"""
-Do not edit the following line - it is required to pass the testcases.
-In your test suite, write tests targeting these functions.
-They can be called like normal functions, e.g. is_valid_name()
-"""
 from test_functions import is_valid_name, is_chronological
 
 def test01():
